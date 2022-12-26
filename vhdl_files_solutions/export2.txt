@@ -1,0 +1,17 @@
+/tb_ecc_mont_opt/inst_ecc_mont_opt/clk
+/tb_ecc_mont_opt/inst_ecc_mont_opt/counter
+/tb_ecc_mont_opt/inst_ecc_mont_opt/done
+/tb_ecc_mont_opt/inst_ecc_mont_opt/done_i1
+/tb_ecc_mont_opt/inst_ecc_mont_opt/done_i2
+/tb_ecc_mont_opt/inst_ecc_mont_opt/secret
+/tb_ecc_mont_opt/error_comp
+/tb_ecc_mont_opt/testbench_finish
+
+/tb_ecc_mont_opt/inst_ecc_mont_opt/r0x
+/tb_ecc_mont_opt/inst_ecc_mont_opt/r0y
+/tb_ecc_mont_opt/inst_ecc_mont_opt/r0z
+
+/tb_ecc_mont_opt/inst_ecc_mont_opt/r1x
+/tb_ecc_mont_opt/inst_ecc_mont_opt/r1y
+/tb_ecc_mont_opt/inst_ecc_mont_opt/r1z
+

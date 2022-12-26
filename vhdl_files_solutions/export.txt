@@ -1,0 +1,16 @@
+/tb_ecc_mont/inst_ecc_mont/clk
+/tb_ecc_mont/inst_ecc_mont/counter
+/tb_ecc_mont/inst_ecc_mont/done
+/tb_ecc_mont/inst_ecc_mont/done_i
+/tb_ecc_mont/inst_ecc_mont/secret
+/tb_ecc_mont/error_comp
+/tb_ecc_mont/testbench_finish
+
+/tb_ecc_mont/inst_ecc_mont/r0x
+/tb_ecc_mont/inst_ecc_mont/r0y
+/tb_ecc_mont/inst_ecc_mont/r0z
+
+/tb_ecc_mont/inst_ecc_mont/r1x
+/tb_ecc_mont/inst_ecc_mont/r1y
+/tb_ecc_mont/inst_ecc_mont/r1z
+
